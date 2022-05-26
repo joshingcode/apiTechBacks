@@ -1,0 +1,16 @@
+body{
+    
+    background: green;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    width: 50%;
+}
+input,button{
+    width: 25%;
+    
+}
